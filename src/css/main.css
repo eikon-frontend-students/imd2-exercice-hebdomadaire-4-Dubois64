@@ -12,3 +12,104 @@ img,
 video {
   display: block;
 }
+
+.pays {
+  width: 100px;
+  color: #000;
+  text-align: right;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  align-self: stretch;
+}
+
+.Suisse {
+  display: flex;
+  width: 195px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.jaune {
+  display: flex;
+  width: 195px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background: #ffcc2f;
+  color: white;
+  font-family: Roboto;
+}
+
+.bleu {
+  border-radius: 0px 10px 10px 0px;
+  background: #37d3d2;
+  display: flex;
+  width: 105px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: Roboto;
+}
+
+.jaune-et-bleu {
+  display: flex;
+  gap: 3px;
+}
+
+.card-pays-stat {
+  display: flex;
+  gap: 40px;
+}
+
+.Usa {
+  width: 100px;
+  color: #000;
+  text-align: right;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  align-self: stretch;
+  color: #000;
+  text-align: right;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.jaune-2 {
+  display: flex;
+  width: 153px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background: #ffcc2f;
+  color: white;
+  font-family: Roboto;
+}
+
+.bleu-2 {
+  border-radius: 0px 10px 10px 0px;
+  background: #37d3d2;
+  display: flex;
+  width: 105px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: Roboto;
+}
