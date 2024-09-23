@@ -28,6 +28,36 @@ video {
   align-self: stretch;
 }
 
+.pays-usa {
+  width: 200px;
+  color: #000;
+  text-align: right;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  align-self: stretch;
+}
+
+.pays-eu {
+  width: 123px;
+  color: #000;
+  text-align: right;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  align-self: stretch;
+}
+
 .Suisse {
   display: flex;
   width: 195px;
@@ -47,6 +77,28 @@ video {
   font-family: Roboto;
 }
 
+.jaune-usa {
+  display: flex;
+  width: 153px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background: #ffcc2f;
+  color: white;
+  font-family: Roboto;
+}
+
+.jaune-eu {
+  display: flex;
+  width: 123px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background: #ffcc2f;
+  color: white;
+  font-family: Roboto;
+}
+
 .bleu {
   border-radius: 0px 10px 10px 0px;
   background: #37d3d2;
@@ -57,6 +109,32 @@ video {
   align-items: center;
   color: white;
   font-family: Roboto;
+}
+
+.bleu-usa {
+  border-radius: 0px 10px 10px 0px;
+  background: #37d3d2;
+  display: flex;
+  width: 147px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: Roboto;
+  padding-top: 2px;
+}
+
+.bleu-eu {
+  border-radius: 0px 10px 10px 0px;
+  background: #37d3d2;
+  display: flex;
+  width: 1px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: Roboto;
+  padding-top: 2px;
 }
 
 .jaune-et-bleu {
@@ -112,4 +190,39 @@ video {
   align-items: center;
   color: white;
   font-family: Roboto;
+}
+
+.Suisse-3 {
+  display: flex;
+  width: 123px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.mobile-desktop {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: Roboto;
+}
+
+.desktop {
+  color: #000;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: #37d3d2;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.carré-jaune {
+  width: 16px;
+  height: 16px;
+  background: #ffcc2f;
 }
