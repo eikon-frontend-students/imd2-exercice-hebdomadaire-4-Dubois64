@@ -240,3 +240,19 @@ video {
   font-weight: 700;
   line-height: normal;
 }
+
+.carré {
+  display: flex;
+}
+
+.card-pays-stat {
+  padding-left: 100px;
+}
+
+.jaune-et-bleu {
+  padding-left: 100px;
+}
+
+.jaune-bleu-usa {
+  padding-right: 200px;
+}
