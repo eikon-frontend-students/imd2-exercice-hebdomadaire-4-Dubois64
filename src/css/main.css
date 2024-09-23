@@ -222,7 +222,21 @@ video {
 }
 
 .carré-jaune {
-  width: 16px;
-  height: 16px;
-  background: #ffcc2f;
+  display: flex;
+  flex-direction: row;
+  color: #000;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.carré-bleu {
+  color: #000;
+  font-family: Roboto;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
